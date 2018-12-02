@@ -34,19 +34,19 @@
     <None Include="M:\软件方法实验\shiyan4\shiyan4\Lab4\ECG200_TEST.tsv">
       <Filter>源文件</Filter>
     </None>
-    <None Include="M:\软件方法实验\shiyan4\shiyan4\Lab4\Time Recording Log.doc">
+    <None Include="4. Project Plan Summary.doc">
       <Filter>资源文件</Filter>
     </None>
-    <None Include="M:\软件方法实验\shiyan4\shiyan4\Lab4\软件方法与过程实验报告-1.doc">
+    <None Include="Defect Recording Log(option).doc">
       <Filter>资源文件</Filter>
     </None>
-    <None Include="M:\软件方法实验\shiyan4\shiyan4\Lab4\时间序列数据的符号化表示及可视展现.docx">
+    <None Include="Time Recording Log.doc">
       <Filter>资源文件</Filter>
     </None>
-    <None Include="M:\软件方法实验\shiyan4\shiyan4\Lab4\Defect Recording Log(option).doc">
+    <None Include="软件方法与过程实验报告-1.doc">
       <Filter>资源文件</Filter>
     </None>
-    <None Include="M:\软件方法实验\shiyan4\shiyan4\Lab4\4. Project Plan Summary.doc">
+    <None Include="时间序列数据的符号化表示及可视展现.docx">
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>
